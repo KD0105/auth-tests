@@ -47,5 +47,5 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/auth-tests.git
+   git clone https://github.com/KD0105/auth-tests.git
    cd auth-tests
